@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @offorCode
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javaScriot
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on an E-Commence Website
 - 📫 How to reach me onahoffornnachristian@gmail.com
 
